@@ -47,7 +47,7 @@ The %FROM% is the placeholder which is replaced with the name of the troublemake
 ## Adding bad words 
 Also in the `resources` folder is the `badwords.json` file. Feel free to add bad word to your taste.
 
-#Usage
+# Usage
 ## Normal functionality
 The bot reads every message in the channel he or she has joined. Every user can talk to the bot with these comands:
 
